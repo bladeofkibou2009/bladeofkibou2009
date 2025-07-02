@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Blade of Kibou</h1>
 <h3 align="center">Just someone who loves building bots and hides his feelings... in code 🖤</h3>
 
+<!-- Alya chibi (RAHASIA!) -->
 <p align="center">
-  <img src="https://i.imgur.com/ut1wXb3.jpg" alt="Alya Russia" width="300"/>
+  <img src="https://hutaofiles.caliph.dev/file/51e3b6c1d80d39c0984307ed0f266909/a07eec91834776852019cb8b312ab3bf583bbb3f569e434b4b3d984e49b83593" alt="Alya Chibi" width="250"/>
 </p>
 
+<!-- Efek ketik -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Bot+Dev+who+loves+Alya+Russia+%F0%9F%A4%AE;Coding+from+a+phone+with+style+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Bot+Dev+with+Terminal+Power!;Coding+from+Android+with+💪" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently building **WhatsApp bots** with `Node.js`  
-- 💻 Made my first website with just: *"Halo ini web pertama aku 😆"*  
-- 🤖 Bot Dev | HTML/CSS Learner | Terminal Coder  
-- 📱 Coding from **Android** using Termux + Acode  
-- 💘 Favorite anime? **Alya Sometimes Hides Her Feelings in Russian** 😳
+- 🔧 I'm currently building **WhatsApp bots** with `Node.js`
+- 🖥️ I also made my first HTML website: *"Halo ini web pertama aku 😆"*
+- 📱 I code everything from my Android phone using Termux & Acode
+- 🧪 I love exploring JavaScript, Node.js, and cool CLI tools
 
 ---
 
@@ -32,29 +33,19 @@
 
 ---
 
-### 🎌 Anime Corner
-
-<p>
-  <img src="https://img.shields.io/badge/Favorite-Alya%20Russia-pink?style=flat&logo=funimation" />
-  <br><br>
-  <i>"Я тебя люблю" – Alya (which means: I love you 🤭)</i>
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bladeofkibou2009&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bladeofkibou2009&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### ☕ Let's Connect
 
-- WhatsApp: [wa.me/6285180717373](https://wa.me/6285180717373)  
-- Alt WhatsApp: [wa.me/62882015043419](https://wa.me/62882015043419)  
-- Telegram Bot: [@Bladeofkiboubot](https://t.me/Bladeofkiboubot)
+- 📱 WhatsApp: [wa.me/6285180717373](https://wa.me/6285180717373)  
+- 📱 Alt WhatsApp: [wa.me/62882015043419](https://wa.me/62882015043419)  
+- 🤖 Telegram Bot: [@Bladeofkiboubot](https://t.me/Bladeofkiboubot)
 
 ---
 
