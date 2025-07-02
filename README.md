@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently building **WhatsApp bots** using `Node.js`  
 - 🌱 I’m currently learning more about **JavaScript, Web Dev, and Terminal life**  
-- ⚡ Fun fact: I code everything from a **phone**, no PC yet 💪  
 - 🤖 My bot on Telegram: [@Bladeofkiboubot](https://t.me/Bladeofkiboubot)
 
 ---
