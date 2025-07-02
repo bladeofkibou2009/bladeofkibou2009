@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning more about **JavaScript, Web Dev, and about life**  
 - 🤖  My bot on Telegram: [@Bladeofkiboubot](https://t.me/Bladeofkiboubot)
 
----about life
+---🫩🫩🫩
 
 ### 🛠️ Tech Stack
 
