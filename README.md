@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning more about **JavaScript, Web Dev, and about life**  
 - 🤖  My bot on Telegram: [@Bladeofkiboubot](https://t.me/Bladeofkiboubot)
 
----the question is? are we all okay? 
+---**the question is?** are we all okay? 
 
 ### 🛠️ Tech Stack
 
